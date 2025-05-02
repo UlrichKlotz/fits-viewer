@@ -2,6 +2,8 @@
 
 A fast and interactive FITS file viewer for quickly inspecting and sorting astrophotography image sequences.
 
+![Screenshot](Pferdekopf2.jpg)
+
 ## Features
 
 - Displays FITS images in full resolution with fast histogram normalization
