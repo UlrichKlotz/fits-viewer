@@ -1,6 +1,7 @@
 # FITS Viewer
 
 A fast and interactive FITS file viewer for quickly inspecting and sorting astrophotography image sequences.
+The Update V1.1 avoids the blinking of the images, which is a large improvement.
 
 ![Screenshot](Pferdekopf2.jpg)
 
