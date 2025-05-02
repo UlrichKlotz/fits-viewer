@@ -33,12 +33,12 @@ pip install astropy matplotlib numpy
 
 ## Usage
 
-1. Open `FITS_Viewer_V1.0.py` in a code editor.
+1. Open `FITS_Viewer_V1.1.py` in a code editor.
 2. Adjust the path to your FITS image folder inside the script.
 3. Run the script using:
 
 ```bash
-python FITS_Viewer_V1.0.py
+python FITS_Viewer_V1.1.py
 ```
 
 ## License
