@@ -48,3 +48,5 @@ This project is licensed under the MIT License – see the `LICENSE` file.
 
 (c) (2025) Ulrich E. Klotz
 [![DOI](https://zenodo.org/badge/976703253.svg)](https://doi.org/10.5281/zenodo.22810466)
+
+This code was created with the support of Claude (Anthropic), based on the author’s specifications and instructions.
