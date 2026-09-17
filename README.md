@@ -46,5 +46,5 @@ python FITS_Viewer_V1.1.py
 
 This project is licensed under the MIT License – see the `LICENSE` file.
 
-(c) Ulrich E. Klotz
+(c) (2025) Ulrich E. Klotz
 [![DOI](https://zenodo.org/badge/976703253.svg)](https://doi.org/10.5281/zenodo.22810466)
