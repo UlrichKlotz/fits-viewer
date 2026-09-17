@@ -14,9 +14,9 @@ authors:
     affiliation: "Hochschule München University of Applied Sciences"
     orcid: "https://orcid.org/0000-0002-6033-1659"
 license: MIT
-version: "1.0.1"                                        # ← muss mit Ihrem neuesten Release-Tag übereinstimmen
-date-released: "2026-09-17"                             # ← ggf. auf das Datum des Releases anpassen
-doi: "10.5281/zenodo.22810466"                          # Concept-DOI (all versions)
+version: "1.1.0"                                        
+date-released: "2026-09-17"                             
+doi: "10.5281/zenodo.22810466"                         
 repository-code: "https://github.com/UlrichKlotz/fits-viewer"
 keywords:
   - FITS
