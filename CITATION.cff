@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "FITS Viewer"
+abstract: >-
+  A fast, interactive FITS file viewer for quickly inspecting and sorting
+  astrophotography image sequences. Images are shown at full resolution with
+  fast histogram normalisation and simple keyboard navigation, while the
+  underlying image data is displayed unchanged.
+type: software
+authors:
+  - family-names: "Klotz"
+    given-names: "Ulrich E."
+    name-prefix: "Prof. Dr."
+    affiliation: "Hochschule München University of Applied Sciences"
+    orcid: "https://orcid.org/0000-0002-6033-1659"
+license: MIT
+version: "1.0.1"                                        # ← muss mit Ihrem neuesten Release-Tag übereinstimmen
+date-released: "2026-09-17"                             # ← ggf. auf das Datum des Releases anpassen
+doi: "10.5281/zenodo.22810466"                          # Concept-DOI (all versions)
+repository-code: "https://github.com/UlrichKlotz/fits-viewer"
+keywords:
+  - FITS
+  - astronomy
+  - astrophotography
+  - image viewer
+  - image inspection
+  - Python
+  - astropy
+  - data visualization
